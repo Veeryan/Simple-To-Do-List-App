@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <DropDownPreference
+        app:title="Sort by"
+        app:useSimpleSummaryProvider="true"
+        android:defaultValue="time"
+        android:entryValues="@array/sort_values"
+        app:key="sort_by"
+        android:entries="@array/sort_entries"
+        />
+
+</PreferenceScreen>

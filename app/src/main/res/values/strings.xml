@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">VeerApp1 - To Do List</string>
+    <string name="rv_taskDesc">Task description</string>
+    <string name="rv_taskTitle">Task Title</string>
+    <string name="null_tasksList_rv">No Tasks</string>
+    <string name="actionbartoggle_open">open</string>
+    <string name="actionbartoggle_close">close</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="menu_general_titile">General</string>
+    <string name="menu_addtask_title">Add Task</string>
+    <string name="menu_clear_title">Clear</string>
+    <string name="addtask_tvNewTask">NEW TASK</string>
+    <string name="hint_taskname">Enter Task Name</string>
+    <string name="hint_taskdescription">Enter Task Description</string>
+    <string name="addtask_tvDate">Date:</string>
+    <string name="addtask_tvTime">Time:</string>
+    <string name="addtask_btnAddTask">Add Task</string>
+    <string name="hint_selectdate">Click to Select Date</string>
+    <string name="hint_selecttime">Click to Select Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="addtask_emptyfield_message">One or more fields are empty</string>
+    <string name="mainAct_taskNotSaved">Task Not Saved</string>
+    <string name="mainAct_taskSaved">Task Saved</string>
+    <string name="edittask_action_edit">Edit</string>
+    <string name="edittask_tvEditTask">Edit Task</string>
+    <string name="edittask_btnEditTask">Save</string>
+    <string name="mainAct_taskNotUpdated">No Changes Made</string>
+    <string name="mainAct_taskUpdated">Task Updated</string>
+    <string name="viewTask_title">View Task</string>
+    <string name="rv_imgvEdit_content_desc">edit task image view</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name='VeerApp1 - To Do List'
+include ':app'
